@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kunal-agr
 - 👀 I’m interested in OOPS concept
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me kunalagrawal2004@gmail.com
+- 💞️ I’m looking to collaborate on open-source projects which uses java or c
+- 📫 How to reach me https://www.linkedin.com/in/kunalagr09/
 - ⚡ Fun fact: I am in love with Coding & Development
 
 <!---
