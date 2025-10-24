@@ -1,18 +1,28 @@
 👋 Hey there, I'm Kunal Agrawal
 💻 Passionate student exploring software development and open-source
 
+
 🧑‍💻 About Me
-🎓 Student Developer from India (IST)
+  -🎓 Student Developer from India (IST)
 
-🧠 Focused on writing clean, maintainable code
+  -🧠 Focused on writing clean, maintainable code
 
-🌱 Always learning new technologies and exploring open-source
+  -🌱 Always learning new technologies and exploring open-source
 
-💬 Open to bug fixes, documentation, and collaborative projects
+  -💬 Open to bug fixes, documentation, and collaborative projects
 
-🤝 Currently open for offers and opportunities
+  -🤝 Currently open for offers and opportunities
 
-<!---
-kunal-agr/kunal-agr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🛠️ Tech Stack
+Languages & Tools I Use:
+Java · C · PHP · HTML · CSS · JavaScript · PostgreSQL
+
+
+🤝 Connect with Me
+https://www.linkedin.com/in/kunalagr09/
+🌟 Fun Fact
+💡 Driven by curiosity — I believe every bug is just a new learning opportunity!
+
+
+⭐️ Thanks for visiting my profile! Don’t forget to explore my repositories!
