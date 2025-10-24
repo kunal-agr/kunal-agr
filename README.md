@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @kunal-agr
-- 👀 I’m interested in OOPS concept
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on open-source projects which uses java or c
-- 📫 How to reach me https://www.linkedin.com/in/kunalagr09/
-- ⚡ Fun fact: I am in love with Coding & Development
+👋 Hey there, I'm Kunal Agrawal
+💻 Passionate student exploring software development and open-source
+
+🧑‍💻 About Me
+🎓 Student Developer from India (IST)
+
+🧠 Focused on writing clean, maintainable code
+
+🌱 Always learning new technologies and exploring open-source
+
+💬 Open to bug fixes, documentation, and collaborative projects
+
+🤝 Currently open for offers and opportunities
 
 <!---
 kunal-agr/kunal-agr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
